@@ -3,7 +3,7 @@ This is my Telling Stories With Data Portfolio.
 https://hhejran.github.io/Portfolio/
 
 # About Me
-Hi! My name is Helen Hejran (she/her). I grew up in the San Gabriel Valley in California before obtaining my Bachelor's degree at UC San Diego. In January 2020, I completed UCLA’s Management Development for Entrepreneurs (MDE) Program. I am now a first year Master of Entertainment Industry Management Student at CMU. As a MEIM student, I am interested in pursing a career in Television or Film upon graduation. Currently, I am most interested in exploring Development and Production. For the spring semester, I am a Creative Development Intern with Threshold Entertainment. 
+Hi! My name is Helen Hejran (she/her). I grew up in the San Gabriel Valley in California before obtaining my Bachelor's degree at UC San Diego with a major in Biology and minors in Theatre and Health Care-Social Issues. In January 2020, I completed UCLA’s Management Development for Entrepreneurs (MDE) Program. Working with an MBA student mentor, I wrote a Business Improvement Plan, which aimed to improve the company and remedy growing pains. I am now a first year Master of Entertainment Industry Management Student at CMU. As a MEIM student, I am interested in pursing a career in Television or Film upon graduation. Currently, I am most interested in exploring Development and Production. For the spring semester, I am a Creative Development Intern with Threshold Entertainment. 
 
 I am excited to be taking Telling Stories with Data! The other electives I opted for in the spring semester are Project Management, Disruptive Technologies in Arts Enterprises, Guest Experience in Theme Park Design, and Introduction to Writing for Television.
 
