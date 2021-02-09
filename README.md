@@ -17,6 +17,6 @@ Here's where all of my data visualizations can be found!
 
 ### In-Class Visualization Datawrapper
 
-<iframe title="Pension Spending High in Brazil" aria-label="chart" id="datawrapper-chart-iXR5J" src="https://datawrapper.dwcdn.net/iXR5J/1/" scrolling="no" frameborder="0" style="border: none;" width="300" height="300"></iframe>
+<iframe title="Pension Spending High in Brazil" aria-label="chart" id="datawrapper-chart-iXR5J" src="https://datawrapper.dwcdn.net/iXR5J/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="600"></iframe>
 
  
