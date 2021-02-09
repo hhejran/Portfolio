@@ -2,11 +2,12 @@
 This is my Telling Stories With Data Portfolio.
 
 # About Me
-Hi! My name is Helen Hejran (she/her) and I am a first year Master of Entertainment Industry Management Student at CMU. I grew up in the San Gabriel Valley in California before obtaining my Bachelor's degree at UC San Diego. 
+Hi! My name is Helen Hejran (she/her). I grew up in the San Gabriel Valley in California before obtaining my Bachelor's degree at UC San Diego. In January 2020, I completed UCLA’s Management Development for Entrepreneurs (MDE) Program. I am now a first year Master of Entertainment Industry Management Student at CMU.
 As a MEIM student, I am interested in pursing a career in Television or Film upon graduation. Currently, I am most interested in exploring Development and Production.
 
 # What I Hope To Learn
-I hope to learn more about effective ways to visualize data in easily comprehendable ways. The extent of my coding and data visualization experiences is very limited to making graphs on Excel, PowerPoint, and Canva I have very limited background in data visualization and coding, so I look forward to using Tableau and other programs.
+I hope to learn more about effective ways to visualize data in easily comprehendable ways. The extent of my coding and data visualization experiences is limited. I have made graphs and charts on Excel, PowerPoint, and Canva and I learned R in Statistics with R. With my limited background, I am really looking forward to learning and using Tableau and other programs (like Github!)
+Another
 
 # Portfolio
 Here's where all of my data visualizations can be found!
