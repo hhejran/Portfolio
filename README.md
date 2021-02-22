@@ -22,6 +22,11 @@ In-Class Visualization Datawrapper
 <iframe title="Pension Spending High in Brazil" aria-label="chart" id="datawrapper-chart-iXR5J" src="https://datawrapper.dwcdn.net/iXR5J/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="600"></iframe>
 
 ### Assignments
- [Assignment 2](Assignment2.md)
+Here is where you can find the links to all my assignments!
+
+[Final Project](FinalProject.md)
+
+[Assignment 2](Assignment2.md)
  
- [Assignment 4](Assignment4.md)
+[Assignment 4](Assignment4.md)
+
