@@ -25,4 +25,4 @@ Of the three I felt didn't work, the people giving me feedback agreed .I feel th
 
 
 ## Redesigned Data Visualization
-
+<img src="https://hhejran.github.io/Portfolio/cases.jpg">
