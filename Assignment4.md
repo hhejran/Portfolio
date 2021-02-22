@@ -26,3 +26,8 @@ Of the three I felt didn't work, the people giving me feedback agreed .I feel th
 
 ## Redesigned Data Visualization
 <img src="https://hhejran.github.io/Portfolio/cases.jpg">
+
+Source: [LA Public Health](http://dashboard.publichealth.lacounty.gov/covid19_surveillance_dashboard/)
+[LA Public Health](http://publichealth.lacounty.gov/media/Coronavirus/locations.htm#top-25)
+[LA Public Health](http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/vaccine-dashboard.htm#city)
+
