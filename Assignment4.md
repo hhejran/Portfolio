@@ -14,8 +14,8 @@ Source: [LA Times](**https://www.latimes.com/projects/la-covid-vaccine-racial-di
 ## Wireframes and User Feedback
 
 #### Wireframes
-<img src="https://hhejran.github.io/Portfolio/page1.png">
-<img src="https://hhejran.github.io/Portfolio/page2.png">
+<img src="https://hhejran.github.io/Portfolio/page1.jpg">
+<img src="https://hhejran.github.io/Portfolio/page2.jpg">
 
 #### User Feedback
 
