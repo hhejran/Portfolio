@@ -24,8 +24,10 @@ In-Class Visualization Datawrapper
 ### Assignments
 Here is where you can find the links to all my assignments!
 
-[Final Project](FinalProject.md)
+#### Final Project
+[Final Project Part One](final_project_HelenHejran.md)
 
+#### General Assignments 
 [Assignment 2](Assignment2.md)
  
 [Assignment 4](Assignment4.md)
