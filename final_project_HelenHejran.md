@@ -10,7 +10,7 @@ Resolution: Push for legislation or agreements between entertainment unions and 
 
 ## Sketches
 <img src="https://hhejran.github.io/Portfolio/sketches.jpg">
-
+<img src="https://hhejran.github.io/Portfolio/sketches2.jpg">
 
 ## Data
 I have included data sources as well as some of the research sources that outline streaming services throughout the years. There are write ups about the different sites and the current list of streaming services will help setup my story. I then will then focus on the data from Statista and IMDB Pro to look at how streaming services are nowadays. I am unsure how effective this will be, but I may want to focus on a prime example like Disney+ or Peacock and track the way they have taken back their content from competitors as well as shifting their focus on their own streaming platforms. I am considering doing a "case study" type of example with Marvel TV and Netflix to demonstrate a real life example and problem.
