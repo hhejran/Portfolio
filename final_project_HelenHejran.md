@@ -23,7 +23,6 @@ A couple of paragraphs that document your data source(s), and an explanation of 
 [Guide to Free Streaming Video Services](https://www.consumerreports.org/streaming-video-services/guide-to-free-streaming-video-services/)
 
 ## Method and medium
-I will use Shorthand as platform to display my story.
-
 Throughout the initial process, I will make revisions to what my story is and allow the data to reshape my story as I look more closely at it. Along with further looking into my data, I will see if there is additional data that I am missing and need to find to make my story complete and do further research on what has already been written regarding streaming services. I will make any revisions as necessary to my story and then start a storyboard to see how the story flows. Do I need to make it more complex or simplify it? 
-Then I will start sketching out my wireframes by hand. I find it easiest to draw it out with my pens and color pencils. 
+Then I will start sketching out my wireframes by hand. I find it easiest to draw it out with my pens and color pencils. Then, I will show my wireframes to a few friends and classmates to get their feedback. I'll ask what works, what doesn't work, what they think my main message is and see if they can figure out what the story is meant to be. Then, I'll make more revisions to my wireframes before starting to try and produce my data visualizations. 
+I expect to make my final visualizations and story through Tableau and Shorthand. I am not knowledgable of either of these programs, so I will do my best to allow myself extra time as I try and figure out what is going on. I will see how transferrable my wireframes are into my actual visualizations and add my data visualizations to Shorthand. I will add the visualizations and add in the written content. I will show my Shorthand to a few friends to get their opinions before the final presentation. 
