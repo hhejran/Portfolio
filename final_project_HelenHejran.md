@@ -9,6 +9,7 @@ Conflict: The market has now become dominated by a select few streaming services
 Resolution: Push for legislation or agreements between entertainment unions and the major corporations to ensure stop the vertical monopolies (or find a comprable solution).
 
 ## Sketches
+<img src="https://hhejran.github.io/Portfolio/sketches.jpg">
 
 
 ## Data
