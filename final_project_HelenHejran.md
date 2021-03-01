@@ -5,8 +5,8 @@ As a reader, I want viewers to be able to freely consume all the most popular sh
 I can do this by pushing for laws or agreements that don't allow entertainment companies to continue their vertical monopolies. 
 
 Setup: Streaming platforms experience a dramatic increase as entertainment companies start to set up internal streaming channels.
-Conflict: 
-Resolution:
+Conflict: The market has now become dominated by a select few streaming services and they all use vertical integration. To make matters worse, corporations have stopped making deals between subsidiary companies and competitors in order to benefit their own streaming platforms.
+Resolution: Push for legislation or agreements between entertainment unions and the major corporations to ensure stop the vertical monopolies (or find a comprable solution).
 
 ## Sketches
 
@@ -21,8 +21,6 @@ A couple of paragraphs that document your data source(s), and an explanation of 
 [Guide to Free Streaming Video Services](https://www.consumerreports.org/streaming-video-services/guide-to-free-streaming-video-services/)
 
 ## Method and medium
-I will use Shorthand as platform to display my story
+I will use Shorthand as platform to display my story.
 
-
-
-In a few paragraphs, you should document how you plan on completing your final project.  
+Throughout the initial process, I will make revisions to what my story is and allow the data to reshape my story as I look more closely at it. Along with further looking into my data, I will see if there is additional data that I am missing and need to find to make my story complete and do further research on what has already been written regarding streaming services. I will make any revisions as necessary to my story and then start a storyboard to see how the story flows. Do I need to make it more complex or simplify it? 
