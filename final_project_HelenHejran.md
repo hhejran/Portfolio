@@ -13,12 +13,12 @@ Resolution: Push for legislation or agreements between entertainment unions and 
 
 
 ## Data
-
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I have included data sources as well as some of the research sources that outline streaming services throughout the years. There are write ups about the different sites and the current list of streaming services will help setup my story. I then will then focus on the data from Statista and IMDB Pro to look at how streaming services are nowadays. I am unsure how effective this will be, but I may want to focus on a prime example like Disney+ or Peacock and track the way they have taken back their content from competitors as well as shifting their focus on their own streaming platforms.
 
 #### Data and Research Sources:
 [The Complete List of Streaming Services in 2021 – 200+ Services](https://flixed.io/complete-list-streaming-services-2021/)
 [Streaming in the U.S. - Statistics & Facts](https://www.statista.com/topics/1594/streaming/)
+[IMDB Pro](https://imdb.com/)
 [Video streaming: how it rose over the last 10 years](https://vator.tv/news/2017-01-24-video-streaming-how-it-rose-over-the-last-10-years)
 [Guide to Free Streaming Video Services](https://www.consumerreports.org/streaming-video-services/guide-to-free-streaming-video-services/)
 
