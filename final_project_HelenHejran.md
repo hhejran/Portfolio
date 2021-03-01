@@ -10,6 +10,7 @@ Resolution: Push for legislation or agreements between entertainment unions and 
 
 ## Sketches
 
+
 ## Data
 
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -24,3 +25,4 @@ A couple of paragraphs that document your data source(s), and an explanation of 
 I will use Shorthand as platform to display my story.
 
 Throughout the initial process, I will make revisions to what my story is and allow the data to reshape my story as I look more closely at it. Along with further looking into my data, I will see if there is additional data that I am missing and need to find to make my story complete and do further research on what has already been written regarding streaming services. I will make any revisions as necessary to my story and then start a storyboard to see how the story flows. Do I need to make it more complex or simplify it? 
+Then I will start sketching out my wireframes by hand. I find it easiest to draw it out with my pens and color pencils. 
