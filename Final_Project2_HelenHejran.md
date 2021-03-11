@@ -3,6 +3,8 @@
 
 <div class="flourish-embed flourish-sankey" data-src="visualisation/5527700"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<img src="https://hhejran.github.io/Portfolio/chart1.jpg">
+
 ## User Research and Interviews
 ### Interview Questions
 Is the story clear?
