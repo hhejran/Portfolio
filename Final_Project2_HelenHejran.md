@@ -17,6 +17,11 @@ At the same time, these giants have increased their prices.
 <img src="https://hhejran.github.io/Portfolio/chart2.jpg">
 
 What will the future hold?
+The divide will continue and prices will increase. This is the new cable.
+The big corporations own so much IP, so it is important that there is still freedom for their subsidiary production companies to have the freedom to shop around the new shows and films.
+If prices continue to dramatically increase there will hit a saturation and the market will have to evolve.
+Subscribers can avoid overpaying by simply splitting all the services in larger and larger groups.
+To combat this, the streaming services either need to control their price increases or create bundles.
 
 ## User Research and Interviews
 ### Interview Questions
