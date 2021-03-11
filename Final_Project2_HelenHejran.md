@@ -11,6 +11,7 @@ Netflix, Hulu, and Amazon Prime Video
 They have taken back their IP and have used old, beloved IP to launch reboots and spinoffs
 
 At the same time, these giants have increased their prices.
+<img src="https://hhejran.github.io/Portfolio/chart2.jpg">
 
 What will the future hold?
 
