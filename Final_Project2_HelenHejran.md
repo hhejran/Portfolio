@@ -28,7 +28,6 @@ To combat this, the streaming services either need to control their price increa
 Is the story clear?
 What worked well? What didn't work?
 Is every chart easy to understand?
-Is this visually appealing?
 Do you find the story and flow engaging?
 Does the call to action make sense to you?
 Any further comments?
