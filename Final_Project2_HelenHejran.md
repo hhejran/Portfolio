@@ -10,8 +10,9 @@ Netflix, Hulu, and Amazon Prime Video
 
 They have taken back their IP and have used old, beloved IP to launch reboots and spinoffs.
 Friends, The Office, Parks and Recreation left Netflix (for HBO Max and Peacock).
-Debuting on these streaming services include the Friends Reunion, Sex and the City revival, Fraiser revival, Saved by the Bell reboot, Punky Brewster revival and more.
-(a data visualization for this?)
+Debuting on these streaming services include the Friends Reunion, Sex and the City revival, Fraiser revival and more.
+
+<img src="https://hhejran.github.io/Portfolio/chart3.jpg">
 
 At the same time, these giants have increased their prices.
 <img src="https://hhejran.github.io/Portfolio/chart2.jpg">
