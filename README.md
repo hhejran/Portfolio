@@ -1,6 +1,5 @@
 # Portfolio
 This is my Telling Stories With Data Portfolio.
-[Home Page](README.md)
 
 # About Me
 Hi! My name is **Helen Hejran** (she/her). I grew up in the San Gabriel Valley in California before obtaining my Bachelor's degree at UC San Diego with a major in Biology and minors in Theatre and Health Care-Social Issues. In January 2020, I completed UCLA’s Management Development for Entrepreneurs (MDE) Program. Working with an MBA student mentor, I wrote a Business Improvement Plan, which aimed to improve the company and remedy growing pains. I am now a first year Master of Entertainment Industry Management Student at CMU. For the spring semester, I am a Creative Development Intern with Threshold Entertainment.
@@ -17,11 +16,7 @@ Furthermore, I hope to learn more about effective ways to visualize data in easi
 # Portfolio
 Here's where all of my data visualizations can be found!
 
-In-Class Visualization Datawrapper
-
-<iframe title="Pension Spending High in Brazil" aria-label="chart" id="datawrapper-chart-iXR5J" src="https://datawrapper.dwcdn.net/iXR5J/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="600"></iframe>
-
-### Assignments
+## Assignments
 Here is where you can find the links to all my assignments!
 
 #### Final Project
@@ -30,6 +25,5 @@ Here is where you can find the links to all my assignments!
 
 #### General Assignments 
 [Assignment 2](Assignment2.md)
- 
 [Assignment 4](Assignment4.md)
 
