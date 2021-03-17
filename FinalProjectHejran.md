@@ -7,7 +7,7 @@
 [Final Project Part Two](Final_Project2_HelenHejran.md)
 
 ## Shorthand Presentation
-[Shorthand Link](https://carnegiemellon.shorthandstories.com/helen-streaming-wars/index.html)
+[Shorthand Presentation Link](https://carnegiemellon.shorthandstories.com/helen-streaming-wars/index.html)
 
 <script src="https://embed.shorthand.com/embed_10.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/helen-streaming-wars/"><h1>Streaming Wars</h1><p>In-house Streaming Services Look to 
