@@ -1,6 +1,6 @@
 # Final Project Part One
 
-# Find Part Two and Three Below
+## Find Links to Part Two and Three Below
 
 [Final Project Part Two](Final_Project2_HelenHejran.md)
 
