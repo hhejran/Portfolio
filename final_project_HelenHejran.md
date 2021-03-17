@@ -1,4 +1,12 @@
 # Final Project Part One
+
+# Find Part Two and Three Below
+
+[Final Project Part Two](Final_Project2_HelenHejran.md)
+
+[Final Project Part Three](FinalProjectHejran.md)
+
+
 ## Summary
 This is a story about the rise of streaming services and its effect on the entertainment industry - films and television specifically. With the rise of streaming services, companies have increased in their use of vertical integration.
 As a reader, I want viewers to be able to freely consume all the most popular shows, so that people are able to consume the art that is being created.
