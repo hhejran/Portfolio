@@ -25,6 +25,8 @@ Here are the links to my Final Project!
 
 [Final Project Part Three](FinalProjectHejran.md)
 
+[Shorthand Presentation Link](https://carnegiemellon.shorthandstories.com/helen-streaming-wars/index.html)
+
 ### General Assignments 
 Here is where you can find the links to past assignments!
 
