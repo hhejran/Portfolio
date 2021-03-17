@@ -18,11 +18,17 @@ Here's where all of my data visualizations can be found!
 
 ### Final Project
 Here are the links to my Final Project!
+
 [Final Project Part One](final_project_HelenHejran.md)
+
 [Final Project Part Two](Final_Project2_HelenHejran.md)
+
+[Final Project Part Three](FinalProjectHejran.md)
 
 ### General Assignments 
 Here is where you can find the links to past assignments!
+
 [Assignment 2](Assignment2.md)
+
 [Assignment 4](Assignment4.md)
 
