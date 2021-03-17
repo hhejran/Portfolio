@@ -1,4 +1,11 @@
 # Final Project Part Two
+
+# Find Part One and Three Links Below
+
+[Final Project Part One](final_project_HelenHejran.md)
+
+[Final Project Part Three](FinalProjectHejran.md)
+
 ## Wireframes and Storyboards
 The growth of streaming services available has massively grown. Studios that used to license their films and television shows have created their own major streaming service sites.
 <div class="flourish-embed flourish-sankey" data-src="visualisation/5527700"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
