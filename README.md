@@ -16,6 +16,9 @@ Furthermore, I hope to learn more about effective ways to visualize data in easi
 # Portfolio
 Here's where all of my data visualizations can be found!
 
+### Rabbit Hole 1
+[Rabbit Hole #1[(rabbithole1.md)
+
 ### Final Project
 Here are the links to my Final Project!
 
